@@ -1,6 +1,6 @@
 const fibs = require('./fibs');
 
-describe('Tests de Fibonacci Iteratif', () => {
+describe('Tests de fibs', () => {
   test('doit retourner un tableau vide pour n = 0', () => {
     expect(fibs(0)).toEqual([]);
   });

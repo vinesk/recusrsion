@@ -1,6 +1,6 @@
 const fibsRec = require('./fibsRec');
 
-describe('Tests de Fibonacci Recursif', () => {
+describe('Tests de fibsRec', () => {
   test('doit retourner un tableau vide pour n = 0', () => {
     expect(fibsRec(0)).toEqual([]);
   });
