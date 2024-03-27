@@ -1,0 +1,15 @@
+{
+  "name": "recusrsion",
+  "version": "1.0.0",
+  "description": "https://www.theodinproject.com/lessons/javascript-recursion",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "vinesk",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
